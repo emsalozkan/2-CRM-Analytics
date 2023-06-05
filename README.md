@@ -25,6 +25,6 @@ This repository consists of a comprehensive set of CRM analytics techniques aime
 >1. Task1: Understanding and Preparing the Data and also examine the overall picture. <span style="color:blue">*(from examine_data import check_df, from outlier_threshold import outlier_thresholds, replace_with_thresholds)*</span> 
 >2. Task2: Creating the CLTV Data Structure. 
 >3. Task3: Establishment of BG/NBD & Gamma-Gamma Models, also Calculation of 6-month CLTV. 
->4. Task4: Creating & Analysing RFM Segments. 
->5. Task5: Detection of customer in the target segment. 
->6. Task5: Functionalize the rfm process. 
+>4. Task4: Creating Segments by CLTV. 
+>5. Task5: Functionalize the all process.
+
